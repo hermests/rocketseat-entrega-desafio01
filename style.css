@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+    font-weight: 500; /* no figma mostra como medium, mas no css não funciona */
+    color: #3F3D56;
+}
+
+h1 span {
+    color: #EE24FF;
+    font-weight: bold;
+}
+
+p {
+    color: #828282;
+    font-size: 15px;
+}
+
+.p1 {
+    margin: auto;
+    width: 540px;
+}
+
+.p2 {
+    margin: auto;
+    margin-top: 32px;
+    width: 626px;
+}
+
+p span {
+    color: #3F3D56;
+    font-weight: bold;
+}
+
+#main {
+    margin: auto;
+    margin-top:64px;
+    text-align: center;
+    width: 626px;
+}
+
+#footer {
+    text-align: center;
+    margin-bottom: 40.83px;
+}
+
+#footer a {
+    color: #3F3D56;
+    font-weight: bold;
+    margin-left: 21px;
+    margin-right: 21px;
+    text-decoration: none;
+}
+
+.line {
+    border: 1px #ECEFF2 solid;
+    height: 0px;
+    margin: auto;
+    margin-bottom: 16px;
+    margin-top: 64px;
+    width: 391px;
+  }
